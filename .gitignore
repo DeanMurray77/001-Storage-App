@@ -59,3 +59,20 @@ typings/
 
 # next.js build output
 .next
+
+# This is the stuff that didn't just come down with Github's pre-populated .gitignore
+# OS X
+.DS_Store*
+Icon?
+._*
+
+# npm
+node_modules
+package-lock.json
+*.gz
+
+.idea
+.idea/
+
+# environment variables
+env*.yml

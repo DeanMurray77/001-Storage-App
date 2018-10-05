@@ -1,0 +1,23 @@
+{
+  "name": "001-storage-app",
+  "version": "1.0.0",
+  "description": "Storage App using Express and Node. Heroku and Postgres",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeanMurray77/001-Storage-App.git"
+  },
+  "author": "Dean Murray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeanMurray77/001-Storage-App/issues"
+  },
+  "homepage": "https://github.com/DeanMurray77/001-Storage-App#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
