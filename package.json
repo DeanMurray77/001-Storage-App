@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/DeanMurray77/001-Storage-App#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "pg": "^7.5.0",
+    "sequelize": "^4.39.0"
   }
 }
